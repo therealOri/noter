@@ -1,6 +1,9 @@
 # Noter
 A discord bot for handling notes for users. Want to keep track of things about your discord users? Then this bot is for you!
 
+<br />
+<br />
+
 # Commands
 __ __
 > - /db make | This makes the database for ALL of your information.
@@ -18,6 +21,7 @@ __ __
 [you@user ~]$ cd noter
 [you@user ~]$ pip install -r requirements.txt
 ```
+
 <br />
 <br />
 
