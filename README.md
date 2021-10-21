@@ -4,6 +4,16 @@ A discord bot for handling notes for users. Want to keep track of things about y
 <br />
 <br />
 
+# Links
+[DB Browser for sqlite](https://sqlitebrowser.org/dl/)
+
+[Python3](https://www.python.org/downloads/)
+
+[Windows(64 bit) Installer](https://www.python.org/ftp/python/3.10.0/python-3.10.0-amd64.exe)
+
+<br />
+<br />
+
 # Commands
 __ __
 > - /db make | This makes the database for ALL of your information.
