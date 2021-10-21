@@ -19,7 +19,8 @@ guild_ids = [GUILD_ID_HERE] # This is so you don't have to wait an hour after st
 
 
 
-
+# You may get a warning in your terminal/cmd window about detecting "discord.client" etc. You can ignore that as that is a thing with slash command/discord-interactions that I think is being worked on maybe.
+# Either way, it won't affect anything and your bot will still run just fine.
 @noter.event
 async def on_ready():
     print(Fore.WHITE + "[" + Fore.GREEN + '+' + Fore.WHITE + "]" + Fore.GREEN + f" connection established and logged in as: {noter.user.name} with ID: {noter.user.id}")
