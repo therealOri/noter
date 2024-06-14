@@ -1,5 +1,3 @@
-enhanced-dpy==1.7.3.7.post6
-python-dotenv==0.19.1
-colorama==0.4.4
-DateTime==4.3
-discord-py-interactions==3.0.2
+py-cord
+numpy
+beaupy
