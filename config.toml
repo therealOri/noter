@@ -1,0 +1,3 @@
+TOKEN=""
+bot_logo="https://discord.com/assets/259560fbae59ef36798b.png" #placeholder
+staff_role_id=1234567890 #The role a user MUST have in order to use the /notes commands.
